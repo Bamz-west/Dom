@@ -4,9 +4,9 @@
 // 	console.log("CLICK!!!");
 // })
 
-var button = document.getElementById("enter");
-var input = document.getElementById("userinput");
-var ul = document.querySelector("ul");
+const button = document.getElementById("enter");
+const input = document.getElementById("userinput");
+const ul = document.querySelector("ul");
 
 
 function inputLength() {
